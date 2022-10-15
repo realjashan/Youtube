@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "cognitoConfig": {
+    "identityPoolName": "youtube_identitypool_20dfbfc2",
+    "allowUnauthenticatedIdentities": true,
+    "authSelections": "identityPoolOnly",
+    "resourceName": "youtube",
+    "sharedId": "20dfbfc2",
+    "serviceName": "Cognito",
+    "useDefault": "manual"
+  }
+}

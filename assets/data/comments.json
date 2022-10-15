@@ -1,0 +1,56 @@
+[{
+  "id": "1",
+  "createdAt": "2 minutes ago",
+  "comment": "I truly love your channel. Keep doing the best work.Such creative videos you’ve on this channel. Just subscribed!",
+  "user": {
+    "name": "Graham Stephan",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/graham.jpg"
+  },
+  "likes": 123,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "2",
+  "createdAt": "1 hour ago",
+  "comment": "Following your channel from the last two years, interesting content!.You’re working so hard, may all your wishes come true. ",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "3",
+  "createdAt": "5 months ago",
+  "comment": "Congratulations on your first 10K followers, may you reach 100K soon. Whoever is reading this, never give up. God is with you.",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "4",
+  "createdAt": "5 months ago",
+  "comment": "The moment you came here is at 05:17.Love this video, I think I’ve watched it four times. ",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "5",
+  "createdAt": "5 months ago",
+  "comment": "I’m the first like no matter what others say.I simply love your video style, truly refreshing and creative.",
+  "user": {
+    "name": "Vadim Savin",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}]

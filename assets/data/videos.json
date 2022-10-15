@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "createdAt": "5 months ago",
+    "title": "Learn How to make thumbnails within 10 mins for any video🔴  ",
+    "thumbnail": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/128831223/original/ec2a6637cae8915fdb1f289ce6cc2dd77fb1e57b/do-eye-catching-social-media-banner-youtube-cover-thumbnail.jpg",
+    "videoUrl": "",
+    "duration": 384,
+    "user": {
+      "name": "Jennifer",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2019/05/word-image-59.png"
+    },
+    "views": 3570000
+  },
+  
+  
+  
+  
+  {
+  "id": "2",
+  "createdAt": "5 months ago",
+  "title": "Being Raze for 10 mins and trolled enemies for eternal life",
+  "thumbnail": "https://preview.redd.it/2tytskci7r551.jpg?width=1920&format=pjpg&auto=webp&s=339d0c7da785b75cc25c458a94e90824d755fab5",
+  "videoUrl": "",
+  "duration": 484,
+  "user": {
+    "name": "Julia Bernet",
+    "image": "https://yt3.ggpht.com/ytc/AKedOLSYDW3oyl-MaVdH2sxJ9DW5euzNQimMtKtagPD3JA=s800-c-k-c0x00ffffff-no-rj"
+  },
+  "views": 357000
+}, {
+  "id": "3",
+  "createdAt": "2 months ago",
+  "title": "🔴Ulitmate Guide of Comparison between Iphone 14 Pro Max vs OnePlus 9! Which One is best?)",
+  "thumbnail": "https://i.ytimg.com/vi/JfRXvrUtJcI/maxresdefault.jpg",
+  "videoUrl": "",
+  "duration": 584,
+  "user": {
+    "name": "Apple Inc",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJJR7hj6hscOvhvdeEBSvP_xont9CBFf852g&usqp=CAU"
+  },
+  "views": 257000
+}, {
+  "id": "4",
+  "createdAt": "2 months ago",
+  "title": "All new updates about the new season of Fortnite here!",
+  "thumbnail": "https://i.pinimg.com/736x/b2/44/a4/b244a412cfc0da953acc9cf3021f19f2.jpg",
+  "videoUrl": "",
+  "duration": 684,
+  "user": {
+    "name": "Graham Stephan",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/graham.jpg"
+  },
+  "views": 257000
+}, {
+  "id": "5",
+  "createdAt": "2 months ago",
+  "title": "MacBook Tutorial for Beginners! Learn to operate MacOs",
+  "thumbnail": "https://i.ytimg.com/vi/9tobL8U7dQo/maxresdefault.jpg",
+  "videoUrl": "",
+  "duration": 584,
+  "user": {
+    "name": "Biahaze",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/biahaze.jpg"
+  },
+  "views": 257000
+}]
